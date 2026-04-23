@@ -1,12 +1,24 @@
-# Open3D Education
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <h1>Open3D Education</h1>
+      <p>
+        Repositório colaborativo da disciplina universitária de
+        <strong>Criação de Elementos Educacionais com Impressão 3D</strong>,
+        ministrada por
+        <a href="https://github.com/andrebelem">Andre Belem</a>,
+        no âmbito do Observatório Oceanográfico (UFF).
+      </p>
+    </td>
+    <td align="right" width="220" style="border: none;">
+      <img src="assets/imagens/open3d-education-logo.png"
+           alt="Logo do repositório Open3D Education"
+           width="180" />
+    </td>
+  </tr>
+</table>
 
-Repositório colaborativo da disciplina universitária de criacao de elementos educacionais com impressao 3D.
-
-## Objetivo do repositorio
-
-O `open3d-education` organiza, documenta e compartilha projetos desenvolvidos por estudantes ao longo dos semestres, com foco na producao de recursos didaticos fisicos por meio de modelagem e impressao 3D.
-
-A proposta e construir um acervo vivo: cada turma contribui com novos materiais, melhora projetos existentes e registra aprendizados tecnicos e pedagogicos para as proximas edicoes da disciplina.
+O `open3d-education` organiza, documenta e compartilha projetos desenvolvidos por estudantes ao longo dos semestres, com foco na producao de recursos didaticos fisicos por meio de modelagem e impressao 3D. A proposta aqui é construir um acervo vivo: cada turma contribui com novos materiais, melhora projetos existentes e registra aprendizados tecnicos e pedagogicos para as proximas edicoes da disciplina.
 
 ## Proposta educacional
 
