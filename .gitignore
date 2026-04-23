@@ -1,0 +1,28 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDEs e editores
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+
+# Python (eventuais scripts de analise)
+__pycache__/
+*.pyc
+.venv/
+
+# Arquivos temporarios de modelagem/impressao
+*.tmp
+*.bak
+*.swp
+*~
+
+# Saidas locais de slicing e simulacao (ajustar conforme necessidade)
+*.gcode
+*.bgcode
+
+# Logs e artefatos locais
+*.log
+cache/
