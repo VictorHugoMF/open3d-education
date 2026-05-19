@@ -4,7 +4,7 @@ Alfabeto em Braille
 
 ## Integrantes
 
-- Victor Hugo Martins Fernandes
+- (Victor Hugo Martins Fernandes) [https://github.com/VictorHugoMF]
 
 ## Resumo
 
