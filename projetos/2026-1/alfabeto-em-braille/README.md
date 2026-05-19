@@ -27,7 +27,7 @@ A lógica do modelo foi baseada na estrututa padrão da célula Braille, onde ca
 
 ## Arquivos do projeto
 
-- [Letra a em Braille](./modelos/letra a grafia Braille.stl)
+- [Letra a em Braille](./modelos/letra-a-grafia-Braille.stl)
 
 
 ## Como visualizar ou imprimir
