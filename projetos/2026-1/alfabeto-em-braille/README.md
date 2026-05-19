@@ -27,8 +27,33 @@ A lógica do modelo foi baseada na estrututa padrão da célula Braille, onde ca
 
 ## Arquivos do projeto
 
-- 'modelos/':
+- Modelos:
 -  [Letra a - Grafia Braille](./modelos/letra-a-grafia-Braille.stl)
+-  [Letra b - Grafia Braille](./modelos/letra-b-grafia-Braille.stl)
+-  [Letra c - Grafia Braille](./modelos/letra-c-grafia-Braille.stl)
+-  [Letra d - Grafia Braille](./modelos/letra-d-grafia-Braille.stl)
+-  [Letra e - Grafia Braille](./modelos/letra-e-grafia-Braille.stl)
+-  [Letra f - Grafia Braille](./modelos/letra-f-grafia-Braille.stl)
+-  [Letra g - Grafia Braille](./modelos/letra-g-grafia-Braille.stl)
+-  [Letra h - Grafia Braille](./modelos/letra-h-grafia-Braille.stl)
+-  [Letra i - Grafia Braille](./modelos/letra-i-grafia-Braille.stl)
+-  [Letra j - Grafia Braille](./modelos/letra-j-grafia-Braille.stl)
+-  [Letra k - Grafia Braille](./modelos/letra-k-grafia-Braille.stl)
+-  [Letra l - Grafia Braille](./modelos/letra-l-grafia-Braille.stl)
+-  [Letra m - Grafia Braille](./modelos/letra-m-grafia-Braille.stl)
+-  [Letra n - Grafia Braille](./modelos/letra-n-grafia-Braille.stl)
+-  [Letra o - Grafia Braille](./modelos/letra-o-grafia-Braille.stl)
+-  [Letra p - Grafia Braille](./modelos/letra-p-grafia-Braille.stl)
+-  [Letra q - Grafia Braille](./modelos/letra-q-grafia-Braille.stl)
+-  [Letra r - Grafia Braille](./modelos/letra-r-grafia-Braille.stl)
+-  [Letra s - Grafia Braille](./modelos/letra-s-grafia-Braille.stl)
+-  [Letra t - Grafia Braille](./modelos/letra-t-grafia-Braille.stl)
+-  [Letra u - Grafia Braille](./modelos/letra-u-grafia-Braille.stl)
+-  [Letra v - Grafia Braille](./modelos/letra-v-grafia-Braille.stl)
+-  [Letra w - Grafia Braille](./modelos/letra-w-grafia-Braille.stl)
+-  [Letra x - Grafia Braille](./modelos/letra-x-grafia-Braille.stl)
+-  [Letra y - Grafia Braille](./modelos/letra-y-grafia-Braille.stl)
+-  [Letra z - Grafia Braille](./modelos/letra-z-grafia-Braille.stl)
 
 
 ## Como visualizar ou imprimir
