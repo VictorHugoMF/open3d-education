@@ -27,7 +27,7 @@ A lógica do modelo foi baseada na estrututa padrão da célula Braille, onde ca
 
 ## Arquivos do projeto
 
-- `modelos/alfabeto-em-braille.stl`:
+- [Letra a em Braille](./modelos/letra-a-braille.stl)
 
 
 ## Como visualizar ou imprimir
