@@ -62,8 +62,8 @@ O arquivo `.stl` pode ser aberto em softwares como Orcaslicer, Cura, PrusaSlicer
 ## Imagens
 
 ![Letra b](imagens/letra-b-impressao-3d.jpg)
-![Letra g](letra-g-impressao-3d.jpg)
-![Letra k](letra-k-impressao-3d.jpg)
+![Letra g](imagens/letra-g-impressao-3d.jpg)
+![Letra k](imagens/letra-k-impressao-3d.jpg)
 
 ## Observações
 A principal limitação identificada no projeto está relacionada ao acabamento superficial da peça impressa. Apenas a utilização do recurso ironing no software OrcaSlicer não foi suficiente para alcançar um acabamento uniforme e satisfatório. Dessa maneira, é necessário realizar um pós-processamento manual utilizando uma lixa pequena ou um maçarico de precisão para corrigir as imperfeições e melhorar a aparência final da peça. 
