@@ -8,7 +8,7 @@ Alfabeto em Braille
 
 ## Resumo
 
-O projeto consiste na exposição inicial à grafia Braille, ensinando de maneira interativa para crianças e adolescentes com ou sem deficiência sobre o tema. A peça será no modelo de uma peça de dominó, mas com a grafia Braille e a sua letra associada. 
+O projeto consiste na exposição inicial à grafia Braille, ensinando de maneira interativa para crianças e adolescentes, com ou sem deficiência, sobre o tema. A peça será no modelo de uma peça de dominó, mas com a grafia Braille e a sua letra associada. 
 
 ## Objetivo
 
@@ -61,15 +61,16 @@ O arquivo `.stl` pode ser aberto em softwares como Orcaslicer, Cura, PrusaSlicer
 
 ## Imagens
 
-Inclua imagens do modelo, renderizações ou fotos do protótipo.
-
-Exemplo:
-
-![Vista do modelo](imagens/vista-do-modelo.png)
+![Letra b](imagens/letra-b-impressao-3d.jpg)
+![Letra g](letra-g-impressao-3d.jpg)
+![Letra k](letra-k-impressao-3d.jpg)
 
 ## Observações
+A principal limitação identificada no projeto está relacionada ao acabamento superficial da peça impressa. Apenas a utilização do recurso ironing no software OrcaSlicer não foi suficiente para alcançar um acabamento uniforme e satisfatório. Dessa maneira, é necessário realizar um pós-processamento manual utilizando uma lixa pequena ou um maçarico de precisão para corrigir as imperfeições e melhorar a aparência final da peça. 
 
-Inclua aqui limitações, problemas encontrados, decisões de projeto ou melhorias futuras.
+Além disso, é importante prestar atenção durante o processo de impressão, principalmente em possíveis quebras do filamento utilizado, visto que esse problema pode comprometer a continuidade da impressão e afetar diretamente a qualidade da peça produzida.
+
+As melhorias futuras do projeto estão concentradas no aperfeiçoamento do acabamento das peças. O objetivo é buscar novos métodos, configurações de impressão e processos de pós-processamento que proporcionem uma superfície mais uniforme, agradável ao toque e visualmente mais refinada, mantendo a funcionalidade educativa e tátil do modelo.  
 
 ## Licença e uso
 
