@@ -61,9 +61,35 @@ O arquivo `.stl` pode ser aberto em softwares como Orcaslicer, Cura, PrusaSlicer
 
 ## Imagens
 
-![Letra b](imagens/letra-b-impressao-3d.jpg)
-![Letra g](imagens/letra-g-impressao-3d.jpg)
-![Letra k](imagens/letra-k-impressao-3d.jpg)
+![Letra a](imagens/letra-a.jpg)
+![Letra b](imagens/letra-b.jpg)
+![Letra c](imagens/letra-c.jpg)
+![Letra d](imagens/letra-d.jpg)
+![Letra e](imagens/letra-e.jpg)
+![Letra f](imagens/letra-f.jpg)
+![Letra g](imagens/letra-g.jpg)
+![Letra h](imagens/letra-h.jpg)
+![Letra i](imagens/letra-i.jpg)
+![Letra j](imagens/letra-j.jpg)
+![Letra k](imagens/letra-k.jpg)
+![Letra l](imagens/letra-l.jpg)
+![Letra m](imagens/letra-m.jpg)
+![Letra n](imagens/letra-n.jpg)
+![Letra o](imagens/letra-o.jpg)
+![Letra p](imagens/letra-p.jpg)
+![Letra q](imagens/letra-q.jpg)
+![Letra r](imagens/letra-r.jpg)
+![Letra s](imagens/letra-s.jpg)
+![Letra t](imagens/letra-t.jpg)
+![Letra u](imagens/letra-u.jpg)
+![Letra v](imagens/letra-v.jpg)
+![Letra w](imagens/letra-w.jpg)
+![Letra x](imagens/letra-x.jpg)
+![Letra y](imagens/letra-y.jpg)
+![Letra z](imagens/letra-z.jpg)
+
+
+
 
 ## Observações
 A principal limitação identificada no projeto está relacionada ao acabamento superficial da peça impressa. Apenas a utilização do recurso ironing no software OrcaSlicer não foi suficiente para alcançar um acabamento uniforme e satisfatório. Dessa maneira, é necessário realizar um pós-processamento manual utilizando uma lixa pequena ou um maçarico de precisão para corrigir as imperfeições e melhorar a aparência final da peça. 
